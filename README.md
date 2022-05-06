@@ -44,6 +44,8 @@ The dataset was collected through reading local news reports every night.
 What assumptions does the dataset make? List atleast two assumptions you identified. For inspiration, check out this blog post that describes one method for identifying data assumptions.
 
 The first assumption I had about the dataset was that on the east coast there were much more protests which leads me to think that there are much more social justice issues there then anywhere in the nation. 
+
+
 The second assumption I had about the dataset is how they collected it, they must have a big database to be able to catch up to every local news report on protests happening in the whole nation. Also, leads me to assume that smaller protests that had little or no news coverage could have been left out of the dataset.   
 
 What data is missing from the dataset? Think about if there are any data points you would have liked to have seen in the dataset.
